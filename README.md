@@ -1,1 +1,1 @@
-# algorithm
+some problem on the data structure and algorithm solve while learning. some solution might be very non intuitive as always there is multiples to solve the same solution as long as the algorithm pass all the test cases you are fine.
